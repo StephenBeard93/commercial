@@ -11,4 +11,5 @@ modified: 2016-04-18T16:39:37-04:00
 
 {% include base_path %}
 
-## Fresh Economic Thinking Meets Cutting Edge Technology
+## Stephen Beard - Founder 
+<img src="Wedding Pic1.jpg", alt="Stephen Beard">
