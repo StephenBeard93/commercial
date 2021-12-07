@@ -5,7 +5,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.0"
   overlay_image: Panoramic.png
-excerpt: "Technology/|Theory/|Insight"
+excerpt: "Technolog Theory Insight"
 modified: 2016-04-18T16:39:37-04:00
 ---
 
@@ -17,7 +17,8 @@ Lantern Economics is on a mission to build the world's best global economic mode
 <ol>
   <li><strong><em>unbiased</em></strong> - Economics is divided into many differing and contradicting schools of thought. Lantern Economics does not build models limited by the theoretical basis of one school of thought. Instead we assess every underlying assumption that we use and always try to select the most empirically well supported theories on an assumption-by-assumption basis. This rigorous and intuitive approach differs sharply with the dogmatic economic ideologies used to build most major economic models </li> 
   <li><strong><em>Complexity theory</em></strong> - We believe that the economy is a complex system composed of thousands and thousands of variables. While some aspects may best be modelled by a simple cause and effect relationship, there are many more aspects of an economy which would be most effectively modelled using various techniques from <em>Artificial Intelligence (AI)</em>, such as machine learning, deep learning and artificial life
-  <li><strong><em>Modular</em></strong> - The only way to test a theory is to see whether it's inclusion into a global economic model (GEM) can increase the overall predictive power of said GEM on a long-term historical simulation. Each theory is effectively a sub-model within the overall GEM, and there could be hundreds of sub-models composing a GEM. One of the core goals of Lantern is to create a highly modular framework, which will allow sub-models to be automatically replaced by competing sub-models of the same type, and a new historic simulation run to find out if the competing theory increased predictive power for the GEM. A modular framework facilitates rapid testing and improving of our GEM.</li></ol>       
+  <li><strong><em>Modular</em></strong> - The only way to test a theory is to see whether it's inclusion into a global economic model (GEM) can increase the overall predictive power of said GEM on a long-term historical simulation. Each theory is effectively a sub-model within the overall GEM, and there could be hundreds of sub-models composing a GEM. One of the core goals of Lantern is to create a highly modular framework, which will allow sub-models to be automatically replaced by competing sub-models of the same type, and a new historic simulation run to find out if the competing theory increased predictive power for the GEM. A modular framework facilitates rapid testing and improving of our GEM.</li>
+</ol>       
   
 
 ## The Private Sector Meets Economic Research 
