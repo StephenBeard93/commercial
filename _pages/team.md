@@ -12,4 +12,4 @@ modified: 2016-04-18T16:39:37-04:00
 {% include base_path %}
 
 ## Stephen Beard - Founder 
-<img src="/images/Wedding Pic1.jpg", alt="Stephen Beard">
+<img src="/images/Wedding Pic1.jpg" alt="Stephen Beard">
