@@ -12,4 +12,4 @@ modified: 2016-04-18T16:39:37-04:00
 {% include base_path %}
 
 ## Stephen Beard - Founder 
-<img src="/images/Wedding Pic1.jpg" alt="Stephen Beard" width="30%" height = "auto" align="left> Stephen is a chartered accountant and currently works as the Financial Director for one of the UK's largest online alcohol retailers. The day to day realities of running a business of size quickly caused Stephen to grow interested in economics, and the more he read the more he questioned.   
+<img src="/images/Wedding Pic1.jpg" alt="Stephen Beard" width="30%" height = "auto" align="left/> Stephen is a chartered accountant and currently works as the Financial Director for one of the UK's largest online alcohol retailers. The day to day realities of running a business of size quickly caused Stephen to grow interested in economics, and the more he read the more he questioned.   
