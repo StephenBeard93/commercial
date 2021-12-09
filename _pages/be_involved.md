@@ -24,19 +24,19 @@ onload="if(submitted) {window.location='/thank-you1/';}"></iframe>
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSdvgbt1HQ4f39IDZP3VXkHNZOInX5F1A5k1aJwHV9yQ6TBHRg/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
   
   <label>Name*</label><br>
-  <input type="text" name="entry.2005620554" placeholder="Full Name">
+  <input type="text" name="entry.2005620554">
   
   <label>Email*</label><br>
   <input type="email" name="entry.1045781291">
   
   <label>Current Job Title and Institution</label><br>
-  <textarea name="entry.1065046570" placeholder ="Current or most recent Job title and institution worked at"></textarea>
+  <textarea name="entry.1065046570"></textarea>
   
   <label>About You (Work Experience And Skills)</label><br>
-  <textarea name="entry.839337160" placeholder="A brief summary of your work experience and skills"></textarea>
+  <textarea name="entry.839337160"></textarea>
   
   <label>Message</label><br>
-  <textarea name="entry.393839841" placeholder="Dear Lantern Economics,"></textarea>
+  <textarea name="entry.393839841"></textarea>
   
   <input type="submit" value="Submit" />
   
